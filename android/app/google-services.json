@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956662586542",
+    "project_id": "safety-share-ca601",
+    "storage_bucket": "safety-share-ca601.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956662586542:android:c340e6f953513c0749613f",
+        "android_client_info": {
+          "package_name": "com.shurokkha.shurokkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hD8kvLiYFsV4wQK6E66yEB-ixsX9yEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

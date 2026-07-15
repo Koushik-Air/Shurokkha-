@@ -1,0 +1,81 @@
+{
+  "appTitle": "Shurokkha",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "sosButtonLabel": "SOS",
+  "sosButtonSubtitle": "Press & hold or tap in emergency",
+  "countdownActive": "Triggering SOS in {seconds}s...",
+  "@countdownActive": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "sosCancelled": "SOS Alert Cancelled",
+  "trustedContacts": "Trusted Contacts",
+  "addContact": "Add Contact",
+  "nearbySafePlaces": "Nearby Safe Places",
+  "calculatorTitle": "Calculator",
+  "loginTitle": "Welcome to Shurokkha",
+  "phoneLabel": "Phone Number",
+  "emailLabel": "Email Address",
+  "passwordLabel": "Password",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "otpSent": "OTP Sent to Phone",
+  "verifyOtp": "Verify OTP",
+  "forgotPassword": "Forgot Password?",
+  "forgotPasswordSent": "Password reset email sent.",
+  "permissionRationaleTitle": "Why we need permissions",
+  "permissionRationaleBody": "Shurokkha requires Location (to track your live coordinates during SOS), Microphone (to record audio evidence), and SMS (to send silent background alerts to contacts). Please grant these when prompted.",
+  "iUnderstand": "I Understand",
+  "cancelButton": "Cancel",
+  "settingsTitle": "Settings",
+  "customSosMessage": "Custom SOS Alert Message",
+  "saveSettings": "Save Settings",
+  "sosAlertSent": "SOS Alert successfully sent to trusted contacts!",
+  "sosAlertFailed": "Failed to send SOS alert.",
+  "directionsTo": "Directions to {name}",
+  "@directionsTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "addFromContacts": "Add from Contacts",
+  "enterManually": "Enter Manually",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "selectLanguage": "Select Language",
+  "sosHistory": "SOS History",
+  "eventHistory": "Emergency Event History",
+  "noEventsYet": "No SOS events recorded yet.",
+  "statusActive": "Active",
+  "statusCancelled": "Cancelled",
+  "statusResolved": "Resolved",
+  "eventStarted": "Started: {time}",
+  "@eventStarted": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "eventEnded": "Ended: {time}",
+  "@eventEnded": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "audioRecording": "Audio Recording",
+  "viewOnMap": "View on Map",
+  "enableDisguise": "Enable Disguise Mode",
+  "disguiseMode": "Disguise Mode",
+  "volumeTrigger": "Volume Button Trigger",
+  "volumeTriggerDesc": "Press volume-down 3 times rapidly to trigger SOS"
+}
